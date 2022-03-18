@@ -30,3 +30,4 @@ Available check types are:
 + `"empty"` - tells if nothing of above is true
 
 ![screenshot](screenshot.png)
+Это файл README
