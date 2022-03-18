@@ -48,3 +48,4 @@ class PliTk:
         self.canvas.itemconfigure(
             self.tiles[self.cols * y + x], image=self.images[index]
         )
+Это файл plitk
